@@ -171,7 +171,7 @@ const HomeScreen = ({navigation}) => {
         keyExtractor={(item, index) => index}
         ListHeaderComponent={renderHeader}
         ListFooterComponent={renderFooter}
-      />q
+      />
     </View>
   );
 };
